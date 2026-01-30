@@ -10,7 +10,7 @@ This metadata provider helps fill Jellyfin/Emby with information for your adult 
 
 ## Install
 - Repository (Jellyfin only):
-  - Add to the list this URL `https://raw.githubusercontent.com/DirtyRacer1337/Jellyfin.Plugin.Stash/main/manifest.json`
+  - Add to the list this URL `https://raw.githubusercontent.com/gruporcs/Jellyfin.Plugin.Stash/scenes/manifest.json`
 - Manual:
-  - Download Archive from [Latest Release](https://github.com/DirtyRacer1337/Jellyfin.Plugin.Stash/releases/latest)
+  - Download Archive from [Latest Release](https://github.com/gruporcs/Jellyfin.Plugin.Stash/releases/latest)
   - Follow the [Instruction](https://jellyfin.org/docs/general/server/plugins/index.html)
